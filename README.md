@@ -6,4 +6,4 @@ Then the input image undergoes various image processing steps. The input image a
 
 Our model works only for the images specified in the test sample images. This code can be modified to obtain results in real time.
 
-For this code to run properly, all the files have to downloaded into the same folder. Then run the python file. See the demo video for a more clear understanding. The output images couldn't be captured in the demo video.
+For this code to run properly, all the files have to be downloaded into the same folder. Then run the python file. See the demo video for a more clear understanding. The output images couldn't be captured in the demo video.
